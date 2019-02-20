@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Nike Air VaporMax Flyknit 2",
+      "type": "Men's Shoe",
+      "price": 190.00,
+      "img_url": "https://s3.console.aws.amazon.com/s3/object/nikedisplayimages/nikeairvapormax.jpg?region=us-east-2&tab=overview"
+    },
+    {
+      "name": "Kyrie 5 CNY",
+      "type": "Shoe",
+      "price": 130.00,
+      "img_url": "https://s3.us-east-2.amazonaws.com/nikedisplayimages/kyrie5.jpg"
+    },
+    {
+      "name": "LeBron 16",
+      "type": "Basketball Shoe",
+      "price": 185.00,
+      "img_url": "https://s3.us-east-2.amazonaws.com/nikedisplayimages/lebron-16-basketball-shoe-PjFb0x.jpg"
+    },
+    {
+      "name": "Nike Zoom KD 11",
+      "type": "Women's Racing Spike",
+      "price": 150.00,
+      "img_url": "https://s3.us-east-2.amazonaws.com/nikedisplayimages/kd11.jpg"
+    },
+    {
+      "name": "Kobe A.D.",
+      "type": "Unisex Racing Spike",
+      "price": 160.00,
+      "img_url": "https://s3.us-east-2.amazonaws.com/nikedisplayimages/kobe.png"
+    },
+    {
+      "name": "PG 2",
+      "type": "Basketball Shoe",
+      "price": 130.00,
+      "img_url": "https://s3.us-east-2.amazonaws.com/nikedisplayimages/PG2018.png"
+    }
+  ]
+}
